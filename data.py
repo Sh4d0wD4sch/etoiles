@@ -7,3 +7,4 @@ p = {
     "Vous dévidez vos cours": [0x32, 0x32, 0x39],
     "Tandis que tous les jours": [0x2E]
 }
+## ⠞⠕⠊⠀⠝⠕⠝⠀⠏⠇⠥⠎⠀⠞⠥⠀⠝⠄⠁⠊⠍⠑⠎⠀⠏⠁⠎⠀⠇⠁⠀⠉⠗⠽⠏⠞⠕⠀⠹
